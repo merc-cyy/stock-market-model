@@ -1,0 +1,4 @@
+seaborn
+tensorflow
+pandas
+scikit-learn
